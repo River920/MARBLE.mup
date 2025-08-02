@@ -1,1 +1,1 @@
-MsgBox "test", vbOKOnly, "Warnings"
+MsgBox "Warning: Make sure that you only use Alphabetical characters", vbOKOnly, "Warnings"
